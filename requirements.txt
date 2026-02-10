@@ -1,0 +1,6 @@
+streamlit
+langchain==0.0.353
+langchain-openai==0.0.2
+langsmith>=0.0.70
+openai
+requests
